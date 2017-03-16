@@ -1,0 +1,2 @@
+FROM hseeberger/scala-sbt
+
