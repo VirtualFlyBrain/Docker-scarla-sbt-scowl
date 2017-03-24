@@ -15,7 +15,8 @@ libraryDependencies ++= {
       "org.neo4j.driver" % "neo4j-java-driver" % "1.0.4",
       "net.sourceforge.owlapi"     %  "owlapi-distribution" % "4.2.1",
       "org.semanticweb.elk"    %   "elk-owlapi"          % "0.4.1",
-      "org.phenoscape"             %% "scowl"               % "1.1"
+      "org.phenoscape"             %% "scowl"               % "1.1",
+      "org.scalatest"          %% "scalatest"              % "2.2.6"
       )
 }
 
